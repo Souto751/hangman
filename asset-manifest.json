@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hangman/static/css/main.366a082f.chunk.css",
+    "main.js": "/hangman/static/js/main.31c842de.chunk.js",
+    "main.js.map": "/hangman/static/js/main.31c842de.chunk.js.map",
+    "runtime-main.js": "/hangman/static/js/runtime-main.2e02fb96.js",
+    "runtime-main.js.map": "/hangman/static/js/runtime-main.2e02fb96.js.map",
+    "static/js/2.98dd155b.chunk.js": "/hangman/static/js/2.98dd155b.chunk.js",
+    "static/js/2.98dd155b.chunk.js.map": "/hangman/static/js/2.98dd155b.chunk.js.map",
+    "index.html": "/hangman/index.html",
+    "static/css/main.366a082f.chunk.css.map": "/hangman/static/css/main.366a082f.chunk.css.map",
+    "static/js/2.98dd155b.chunk.js.LICENSE.txt": "/hangman/static/js/2.98dd155b.chunk.js.LICENSE.txt",
+    "static/media/gameImg-1.f0242166.png": "/hangman/static/media/gameImg-1.f0242166.png",
+    "static/media/gameImg-2.f515a7f0.png": "/hangman/static/media/gameImg-2.f515a7f0.png",
+    "static/media/gameImg-3.a39e3e02.png": "/hangman/static/media/gameImg-3.a39e3e02.png",
+    "static/media/gameImg-4.91c28779.png": "/hangman/static/media/gameImg-4.91c28779.png",
+    "static/media/gameImg-5.c15de5a5.png": "/hangman/static/media/gameImg-5.c15de5a5.png",
+    "static/media/gameImg-6.4125e1f5.png": "/hangman/static/media/gameImg-6.4125e1f5.png",
+    "static/media/gameImg.8530cf50.png": "/hangman/static/media/gameImg.8530cf50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e02fb96.js",
+    "static/js/2.98dd155b.chunk.js",
+    "static/css/main.366a082f.chunk.css",
+    "static/js/main.31c842de.chunk.js"
+  ]
+}
