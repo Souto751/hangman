@@ -1,0 +1,140 @@
+.App-header {
+  background: #222;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.gameDisplay{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+  .header{
+    display: flex;
+    min-height: 15vh;
+    min-width: 100vw;
+    overflow: hidden;
+    justify-content: space-between;
+  }
+
+    .titleDiv{
+      display: flex;
+    }
+
+    .counters{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+      margin-right: 20px;
+    }
+
+      .count{
+        font-size: 100%;
+        color: #fff;
+        margin: 0;
+        text-align: end;
+      }
+
+      .wins{
+        color: #0f0;
+      }
+
+      .loses{
+        color: #f00;
+      }
+
+      .streak{
+        color: #00f;
+      }
+
+      .streak-record{
+        color: #ff0;
+      }
+
+    .gameScreen{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding-bottom: 10px;
+      margin-top: 50px;
+      width: 85vw;
+      margin-left: auto;
+      margin-right: auto;
+      background: #fff7;
+      border-radius: 10px;
+      box-shadow: 2px 2px 10px #fff;
+    }
+
+      .gameImageDiv{
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+        .gmImg{
+          max-width: 300px;
+          width: 100%;
+        }
+
+        .newGameBtn{
+          max-width: 200px;
+          margin-left: auto;
+          margin-right: auto;
+        }
+
+      .gameDiv{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 30px;
+        margin-top: 20px;
+      }
+
+        .displayWord{
+          display: flex;
+          justify-content: center;
+          gap: 1vw;
+        }
+
+          .displayLetter{
+            color: #fff;
+            font-size: 40px;
+          }
+
+        .btns{
+          display: flex;
+          gap: 10px;
+          flex-wrap: wrap;
+          justify-content: center;
+          max-width: 500px;
+          margin-left: auto;
+          margin-right: auto;
+        }
+
+          .letterBtn{
+            width: 3vw;
+            height: 3vw;
+            min-width: 30px;
+            min-height: 30px;
+            background: #fff;
+            border-radius: 5px;
+            border: 2px solid #e8e8e8;
+            outline: none;
+            box-shadow: 0 0 5px #fff;
+            text-transform: uppercase;
+            font-weight: bold;
+            cursor: pointer;
+          }
+
+            .letterBtn:hover{
+              background: #aaa;
+            }
+
+            #next{
+              font-weight: bold;
+              cursor: default;
+            }
