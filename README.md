@@ -14,9 +14,9 @@
 
 ## Content
 
-•You can find lots of words!.
-•You have 6 lives.
-•This game contains a wins counter, a loses counter, a win streak counter and a highest win streak counter.
+•You can find lots of words!.<br/>
+•You have 6 lives.<br/>
+•This game contains a wins counter, a loses counter, a win streak counter and a highest win streak counter.<br/>
 
 <div id="tech"></div>
 
